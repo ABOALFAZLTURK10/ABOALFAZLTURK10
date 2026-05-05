@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 فلاتر & اندروید | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ABOALFAZLTURK10)
+# 🚀 فلاتر & اندروید
 
 
 </div>
