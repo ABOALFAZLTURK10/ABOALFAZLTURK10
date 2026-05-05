@@ -1,10 +1,5 @@
-<div align="center">
   
 # 🚀 فلاتر & اندروید
-
-
-</div>
-
 ---
 
 <div dir="rtl" align="center">
