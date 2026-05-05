@@ -1,11 +1,36 @@
-Flutter | Android
+<div align="center">
+  
+# 🚀 Flutter | Android
+  
+</div>
 
-👋 Hello
+<div align="center">
+  
+### 👋 Hi! I'm Abolfazl
 
-👤 I’m Abolfazl
+</div>
 
-💻 Passionate about programming and mobile app development
+<div dir="ltr">
 
-🌱 Focused on learning and improving my skills in Flutter | Android
+💻 **Passionate about programming and mobile app development**
 
-🚀 Driven to create practical and useful projects
+🌱 **My focus:**  
+Always learning and improving my skills in **Flutter** and **Android**. From UI/UX design to database and backend integration.
+
+🚀 **My goal:**  
+Building projects that are not just about writing code, but actually make people's lives easier.
+
+---
+
+### 🛠 Technologies I work with
+
+| Category | Technologies |
+|----------|-------------|
+| 📱 Framework | Flutter, Android |
+| 💻 Language | Dart |
+| 🔥 Backend | Supabase |
+| 🎨 UI/UX | Material Design, GetX, Provider |
+
+---
+
+</div>
