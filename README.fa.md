@@ -25,11 +25,8 @@
 
 ---
 
-### 📫 شبکه اجتماعی من
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ABOALFAZLTURK10)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)(https://www.instagram.com/aboalfazl_turk10)
 ---
 
 ### 🛠 تکنولوژی‌هایی که با آن‌ها کار می‌کنم
