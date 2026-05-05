@@ -1,8 +1,7 @@
   
 <div dir="rtl" align="center">
   
-# 🚀 فلاتر | اندروید
-  <br>
+# 🚀 فلاتر | اندروید<br>
 </div>
 
 
