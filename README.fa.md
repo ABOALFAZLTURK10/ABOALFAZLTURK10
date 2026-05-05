@@ -1,6 +1,7 @@
 <div align="center">
   
-# 🚀 ابوالفضل | فلاتر & اندروید
+# 🚀 ابوالفضل | فلاتر & اندروید | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ABOALFAZLTURK10)
+
 
 </div>
 
@@ -22,10 +23,6 @@
 
 🚀 **هدفم:**  
 ساختن پروژه‌هایی که نه فقط کدنویسی بشه، بلکه واقعاً به کار مردم بیاد.
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ABOALFAZLTURK10)
 
 ---
 
