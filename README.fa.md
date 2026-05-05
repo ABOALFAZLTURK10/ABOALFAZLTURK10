@@ -5,7 +5,6 @@
   
 </div>
 
----
 
 <div dir="rtl" align="center">
 
